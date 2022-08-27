@@ -12,7 +12,7 @@ class Account {
         }    
        void display()    
         {    
-            cout<<accno<< "<<name<< " "<<rateOfInterest<<endl;   
+            cout<<accno<< " "<<name<< " "<<rateOfInterest<<endl;   
         }    
 };  
 float Account::rateOfInterest=6.5;  
